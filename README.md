@@ -13,7 +13,7 @@
 * Fernando Torres Ferreira da Silva (RA: 2201146)
 * Leandro Moraes Santos (RA: 2226076)
 * Roberto Altieri Junior (RA: 2206737)
-* Jhonatan Wesley Gonzales, (RA: 2327980)
+* Jhonatan Wesley Gonzales, (RA: 23227980)
 
 ## Links:
 
