@@ -1,6 +1,6 @@
 # Projeto Integrador-III: Sentinel Lins: Análise de Ocorrências Criminais na região de Lins
 
-[![Vídeo de apresentação](https://img.youtube.com/vi/qpsWo8ZKUwM/0.jpg)](https://www.youtube.com/watch?v=qpsWo8ZKUwM)
+[![Vídeo de apresentação](https://img.youtube.com/vi/wQsnbGoixAg/0.jpg)](https://www.youtube.com/watch?v=wQsnbGoixAg)
 
 **Universidade Virtual do Estado de São Paulo - Lins/Jaú - SP - 2025**
 
